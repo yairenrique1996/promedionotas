@@ -1,0 +1,12 @@
+C:\Users\ROUTE-AP\source\repos\promediodenotas\promediodenotas\obj\Debug\promediodenotas.vbprojResolveAssemblyReference.cache
+C:\Users\ROUTE-AP\source\repos\promediodenotas\promediodenotas\obj\Debug\promediodenotas.Form1.resources
+C:\Users\ROUTE-AP\source\repos\promediodenotas\promediodenotas\obj\Debug\promediodenotas.Resources.resources
+C:\Users\ROUTE-AP\source\repos\promediodenotas\promediodenotas\obj\Debug\promediodenotas.vbproj.GenerateResource.cache
+C:\Users\ROUTE-AP\source\repos\promediodenotas\promediodenotas\obj\Debug\promediodenotas.vbproj.CoreCompileInputs.cache
+C:\Users\ROUTE-AP\source\repos\promediodenotas\promediodenotas\bin\Debug\promediodenotas.exe.config
+C:\Users\ROUTE-AP\source\repos\promediodenotas\promediodenotas\bin\Debug\promediodenotas.exe
+C:\Users\ROUTE-AP\source\repos\promediodenotas\promediodenotas\bin\Debug\promediodenotas.pdb
+C:\Users\ROUTE-AP\source\repos\promediodenotas\promediodenotas\bin\Debug\promediodenotas.xml
+C:\Users\ROUTE-AP\source\repos\promediodenotas\promediodenotas\obj\Debug\promediodenotas.exe
+C:\Users\ROUTE-AP\source\repos\promediodenotas\promediodenotas\obj\Debug\promediodenotas.xml
+C:\Users\ROUTE-AP\source\repos\promediodenotas\promediodenotas\obj\Debug\promediodenotas.pdb
